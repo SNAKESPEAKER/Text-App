@@ -1,0 +1,31 @@
+.blue{
+  width: 100%;
+  font-size: medium;  
+  margin: 0;
+  font-variant: small-caps;
+padding: 5px;
+margin-bottom: 5px;
+
+}
+
+.note{
+font-size: small;
+color: black;
+font-weight: bold;
+}
+
+
+canvas{
+  background-color: rgb(233, 233, 17);  
+  border: 5px solid red; 
+  box-shadow: 10px 20px 8px crimson;
+}
+
+.footer{
+  bottom: 0;
+  position: fixed;
+  width: 100%; 
+  text-align: center;
+  background-color: aqua; 
+}
+
